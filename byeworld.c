@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
 	printf("Bye world !\n");
-	printf("hack\n");
+	printf("i found you !\n");
 	return 0;
 }
